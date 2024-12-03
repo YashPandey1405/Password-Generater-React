@@ -12,7 +12,7 @@ A **React-powered Password Generator** that allows users to generate strong, ran
 
 ## Demo
 
-Check out the live demo of the project hosted on [Netlify](https://fanciful-moonbeam-d2767e.netlify.app/).
+Check out the live demo of the project hosted on [Netlify](https://precious-halva-dc5cba.netlify.app/).
 
 ## Technologies Used
 
@@ -57,22 +57,7 @@ To run the project locally, follow these steps:
    npm run dev
    ```
 
-5. Open your browser and visit `http://localhost:3000` to see the project running.
-
-## Folder Structure
-
-```
-├── src
-│   ├── components
-│   │   └── PasswordGenerator.js  # Main component for generating passwords
-│   ├── App.js                    # Application entry point
-│   └── index.js                  # Renders the app to the DOM
-├── public
-│   └── index.html                # Basic HTML structure
-├── tailwind.config.js            # TailwindCSS configuration
-├── package.json                  # Project dependencies and scripts
-└── README.md                     # Project documentation
-```
+5. Open your browser and visit `http://localhost:5173` to see the project running.
 
 ## Contributing
 
